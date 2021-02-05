@@ -5,6 +5,7 @@ import com.bobocode.dao.AccountDao;
 import com.bobocode.model.Account;
 import lombok.Getter;
 import lombok.RequiredArgsConstructor;
+import org.springframework.beans.factory.annotation.Autowired;
 
 @Getter
 @RequiredArgsConstructor
